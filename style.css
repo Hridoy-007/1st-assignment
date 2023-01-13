@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+
+}
+
+ /* header style  */
+.header-main{
+    background-image: url('new-year-new-me/images/banner/banner3.png');
+    height: 650px;
+    width: 1350px;
+    display: flex;
+    align-items: center;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    
+}
+ .main-headline{
+    font-size: 55px;
+    color: #ffff;
+    font-family: sans-serif;
+    text-align: right;
+    /* right: 100px; */
+    left: 860px;
+    position: relative;
+ }
+
+ .paragrap-header{
+    font-family: sans-serif;
+    text-align: right;
+    /* right: 100px; */
+    left: 445px;
+    position: relative;
+    font-size: 16px;
+    color: white;
+    top: 140px;}
+/* button indivisual */
+    .btn-primary {
+        color: #005FAC;
+        font-size: large;
+        position: relative;
+        bottom: 135px;
+        left: 1083px;
+        
+        padding: 9px 19px;
+        border-radius: 6px;
+        border: white;
+        font-family: sans-serif;
+
+    }
+ /* main */
+    .mid{
+        display: flex;
+        align-items: center;
+        
+    height: 1000px;
+        width: 1000px ;
+        justify-content: center;}
+    .mid img {
+        height: 500px;
+    }
+
