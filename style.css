@@ -121,3 +121,42 @@
     .disturb{
         padding-right: 22px;
     }
+
+    /* linear style  */
+     #watch {
+        height: 300px;
+        width: 1140px;
+        background-image: url('./new-year-new-me/images/watch.png') ;
+       
+        background-repeat: no-repeat;
+        background-position: center;
+        margin: 220px 0;
+        position: relative;
+        left: 119px;
+
+      }  
+
+     #watch h1{
+        color: white;
+        position:relative;
+        bottom: 298px;
+        font-family: sans-serif;
+        right: 302px;
+        font-size: 44px;
+
+     }
+     #watch button{
+        font-size: 23px;
+        padding: 11px 30px;
+        color: #005FAC;
+        background-color:white;
+        border: none;
+        border-radius: 12px;
+        position: relative;
+        bottom: 282px;
+        left: 59px;
+     }
+
+     .fa-solid {
+        columns: green;
+     }
